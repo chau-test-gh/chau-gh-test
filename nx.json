@@ -1,4 +1,6 @@
 {
+  "nxCloudAccessToken": "YTEzY2NlYTktMWRiZS00NWI1LWEwMTEtYzAxMmI0MzMwMWIyfHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "http://localhost:4203",
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "targetDefaults": {
     "build": {
@@ -24,7 +26,5 @@
       "default"
     ],
     "sharedGlobals": []
-  },
-  "nxCloudAccessToken": "YTEzY2NlYTktMWRiZS00NWI1LWEwMTEtYzAxMmI0MzMwMWIyfHJlYWQtd3JpdGU=",
-  "nxCloudUrl": "http://localhost:4203"
+  }
 }
